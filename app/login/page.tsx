@@ -110,11 +110,6 @@ export default function LoginPage() {
         </form>
 
         {/* Info */}
-        <div className="mt-6 text-center">
-          <p className="text-xs text-slate-500">
-            Default credentials: Liviu11 / Zara_2025
-          </p>
-        </div>
       </motion.div>
     </div>
   )
